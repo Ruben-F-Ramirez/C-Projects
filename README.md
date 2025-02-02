@@ -3,3 +3,4 @@
   - [Stack Implementation](https://github.com/Ruben-F-Ramirez/C-Stack)
   - [Postfix Expression](https://github.com/Ruben-F-Ramirez/Postfix-Expressions)
   - [Binary Search Tree](https://github.com/Ruben-F-Ramirez/Binary-Search-Tree)
+  - [1040EZ](https://github.com/Ruben-F-Ramirez/1040EZ-C)
